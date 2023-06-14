@@ -105,7 +105,7 @@
             <objects>
                 <viewController id="Mcn-iI-rO9" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ri3-im-tKN">
-                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="CATEGORIA DE PELICULAS" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1Ak-M2-9py">
@@ -216,7 +216,7 @@
             <objects>
                 <viewController id="y2A-2S-frM" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="kbK-iu-0qd">
-                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Peliculas de Acción" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GZ4-7o-jE0">
@@ -339,7 +339,7 @@
             <objects>
                 <viewController id="Cle-Js-EUW" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="0nT-K0-9Mi">
-                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="YourName" translatesAutoresizingMaskIntoConstraints="NO" id="qny-w5-2Ou">
@@ -430,7 +430,7 @@
             <objects>
                 <viewController id="tvj-mc-jd9" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="JAr-Qf-l5e">
-                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="UnaCuestionDeTiempo" translatesAutoresizingMaskIntoConstraints="NO" id="7QY-ey-yNw">
@@ -521,7 +521,7 @@
             <objects>
                 <viewController id="7vH-6q-iQX" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Mbc-u3-D2U">
-                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="DondeEstanLasRubias" translatesAutoresizingMaskIntoConstraints="NO" id="kxC-kb-Qi6">
@@ -612,7 +612,7 @@
             <objects>
                 <viewController id="gAb-Gc-W2H" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="xcE-8T-VB5">
-                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Peliculas de Horror" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cez-dm-1Mz">
@@ -992,7 +992,7 @@ Pero un día despierta y descubre con asombro que no reconoce su cuerpo, y piens
             <objects>
                 <viewController id="Mmf-29-qgD" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="O5V-xb-cOr">
-                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="creditcard" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="ZYZ-VO-zGW">
@@ -1029,7 +1029,7 @@ Pero un día despierta y descubre con asombro que no reconoce su cuerpo, y piens
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Metodos de Pago" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Bps-qS-6ie">
-                                <rect key="frame" x="44" y="109" width="305" height="21"/>
+                                <rect key="frame" x="44" y="109" width="305" height="33"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
                                 <color key="textColor" systemColor="secondarySystemBackgroundColor"/>
@@ -1064,14 +1064,14 @@ Pero un día despierta y descubre con asombro que no reconoce su cuerpo, y piens
             <objects>
                 <viewController id="Uzp-Cc-NTv" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="FF8-aW-Ap4">
-                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Psgo con tarjeta" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bQi-Zz-ql5">
-                                <rect key="frame" x="44" y="109" width="305" height="33"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Pago con tarjeta" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bQi-Zz-ql5">
+                                <rect key="frame" x="44" y="109" width="305" height="40"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
-                                <color key="textColor" systemColor="secondarySystemBackgroundColor"/>
+                                <color key="textColor" red="0.34509804840000002" green="0.1607843041" blue="0.28627452250000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="No. Tarjeta" textAlignment="center" minimumFontSize="17" background="pencil" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="xJU-gP-2DR">
@@ -1113,21 +1113,21 @@ Pero un día despierta y descubre con asombro que no reconoce su cuerpo, y piens
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5Ti-LR-0KX" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="6059" y="717"/>
+            <point key="canvasLocation" x="6058.7786259541981" y="716.90140845070425"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="J1q-4G-AFF">
             <objects>
                 <viewController id="QpI-uX-AVE" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Kul-3Q-Mak">
-                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Pago en efectivo" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dHH-65-KCe">
-                                <rect key="frame" x="44" y="109" width="305" height="21"/>
+                                <rect key="frame" x="44" y="109" width="305" height="38"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
-                                <color key="textColor" systemColor="secondarySystemBackgroundColor"/>
+                                <color key="textColor" red="0.34509804840000002" green="0.1607843041" blue="0.28627452250000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Oxxo" translatesAutoresizingMaskIntoConstraints="NO" id="6YS-PF-AA0">
@@ -1155,14 +1155,14 @@ Pero un día despierta y descubre con asombro que no reconoce su cuerpo, y piens
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="z1Y-Y3-mmX" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="6059" y="1408"/>
+            <point key="canvasLocation" x="6058.7786259541981" y="1407.7464788732395"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="p0H-tL-SPa">
             <objects>
                 <viewController id="iLN-Ij-kzP" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Uvv-KG-y2E">
-                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Gracias por su compra" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6Qo-Ib-CF1">
@@ -1217,7 +1217,7 @@ Pero un día despierta y descubre con asombro que no reconoce su cuerpo, y piens
             <objects>
                 <viewController id="N6t-zb-GE4" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="FKF-dP-hEB">
-                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="reproductor de video" translatesAutoresizingMaskIntoConstraints="NO" id="VYe-gg-F80">
@@ -1329,9 +1329,9 @@ Pero un día despierta y descubre con asombro que no reconoce su cuerpo, y piens
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="TYq-ub-I57"/>
+        <segue reference="Kfu-P4-LbN"/>
         <segue reference="AR5-b7-qm3"/>
-        <segue reference="urF-ot-c6A"/>
+        <segue reference="xIp-PK-Lqh"/>
     </inferredMetricsTieBreakers>
     <color key="tintColor" name="Button"/>
     <resources>
