@@ -866,7 +866,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="17" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6AA-x3-hB8">
                                 <rect key="frame" x="46" y="134" width="301" height="574"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <mutableString key="text">Es una película de thriller y acción estadounidense de 2022 dirigida por David Leitch a partir de un guion de Zak Olkewicz y producida por Antoine Fuqua, quien inicialmente concibió la película. Se basa en la novela Maria Beetle de 2010 de Kōtarō Isaka. La película está protagonizada por Brad Pitt como un ex asesino que debe luchar contra otros asesinos mientras monta una versión ficticia del Tokaido Shinkansen.</mutableString>
+                                <string key="text">Es una película de thriller y acción estadounidense de 2022 dirigida por David Leitch a partir de un guion de Zak Olkewicz y producida por Antoine Fuqua, quien inicialmente concibió la película. Se basa en la novela Maria Beetle de 2010 de Kōtarō Isaka. La película está protagonizada por Brad Pitt como un ex asesino que debe luchar contra otros asesinos mientras monta una versión ficticia del Tokaido Shinkansen.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -962,8 +962,8 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="26" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rcd-6F-o1Y">
                                 <rect key="frame" x="55" y="134" width="305" height="637"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <mutableString key="text">La joven Mitsuha vive en un pequeño pueblecito entre las montañas. u abuela y su padre, con el que tiene una relación algo distante. La única expectación un poco emocionante es el cometa Tiamat, que está pasando cerca de la Tierra y por unos días será visible a simple vista.
-Pero un día despierta y descubre con asombro que no reconoce su cuerpo, y piensa que se trata de un extraño sueño. Pero no es así: se encuentra dentro del cuerpo de un chico, concretamente de Taki, un joven estudiante de bachillerato de la gran ciudad de Tokio. A Taki le sucederá lo mismo, y es Mitsuha la que se intercambia con él. Metidos dentro de un cuerpo que les resulta tan extraño, poco a poco, los dos jóvenes empiezan a comunicarse y, torpemente, van superando los retos que se presentan en ambas vidas. De esta forma, el vínculo que tienen se convierte en algo más.</mutableString>
+                                <string key="text">La joven Mitsuha vive en un pequeño pueblecito entre las montañas. u abuela y su padre, con el que tiene una relación algo distante. La única expectación un poco emocionante es el cometa Tiamat, que está pasando cerca de la Tierra y por unos días será visible a simple vista.
+Pero un día despierta y descubre con asombro que no reconoce su cuerpo, y piensa que se trata de un extraño sueño. Pero no es así: se encuentra dentro del cuerpo de un chico, concretamente de Taki, un joven estudiante de bachillerato de la gran ciudad de Tokio. A Taki le sucederá lo mismo, y es Mitsuha la que se intercambia con él. Metidos dentro de un cuerpo que les resulta tan extraño, poco a poco, los dos jóvenes empiezan a comunicarse y, torpemente, van superando los retos que se presentan en ambas vidas. De esta forma, el vínculo que tienen se convierte en algo más.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="19"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -1088,7 +1088,9 @@ Pero un día despierta y descubre con asombro que no reconoce su cuerpo, y piens
                                 <color key="backgroundColor" name="Fondo"/>
                                 <color key="tintColor" name="Fondo"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="filled" title="Confirmar"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Confirmar">
+                                    <color key="baseBackgroundColor" name="Fondo"/>
+                                </buttonConfiguration>
                                 <connections>
                                     <segue destination="iLN-Ij-kzP" kind="show" id="Kfu-P4-LbN"/>
                                 </connections>
@@ -1128,7 +1130,9 @@ Pero un día despierta y descubre con asombro que no reconoce su cuerpo, y piens
                                 <color key="backgroundColor" name="Fondo"/>
                                 <color key="tintColor" name="Fondo"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="filled" title="Confirmar"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Confirmar">
+                                    <color key="baseBackgroundColor" name="Fondo"/>
+                                </buttonConfiguration>
                                 <connections>
                                     <segue destination="iLN-Ij-kzP" kind="show" id="TYq-ub-I57"/>
                                 </connections>
@@ -1168,7 +1172,9 @@ Pero un día despierta y descubre con asombro que no reconoce su cuerpo, y piens
                                 <color key="backgroundColor" name="Button"/>
                                 <color key="tintColor" name="Button"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="filled" title="Ver"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Ver">
+                                    <color key="baseBackgroundColor" name="Button"/>
+                                </buttonConfiguration>
                                 <connections>
                                     <segue destination="N6t-zb-GE4" kind="show" id="cr2-SG-35A"/>
                                 </connections>
@@ -1179,7 +1185,9 @@ Pero un día despierta y descubre con asombro que no reconoce su cuerpo, y piens
                                 <color key="backgroundColor" name="Fondo"/>
                                 <color key="tintColor" name="Button"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="filled" title="Menu"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Menu">
+                                    <color key="baseBackgroundColor" name="Button"/>
+                                </buttonConfiguration>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="Pys-4s-tGd"/>
@@ -1305,7 +1313,7 @@ Pero un día despierta y descubre con asombro que no reconoce su cuerpo, y piens
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="Kfu-P4-LbN"/>
+        <segue reference="TYq-ub-I57"/>
         <segue reference="AR5-b7-qm3"/>
     </inferredMetricsTieBreakers>
     <color key="tintColor" name="Button"/>
