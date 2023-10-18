@@ -60,9 +60,9 @@
 				A43C3AEC2A31740F0001AF0D /* SceneDelegate.swift */,
 				A43C3AEE2A31740F0001AF0D /* ViewController.swift */,
 				A43C3AF02A31740F0001AF0D /* Main.storyboard */,
-				A43C3AF32A3174110001AF0D /* Assets.xcassets */,
 				A43C3AF52A3174110001AF0D /* LaunchScreen.storyboard */,
 				A43C3AF82A3174110001AF0D /* Info.plist */,
+				A43C3AF32A3174110001AF0D /* Assets.xcassets */,
 			);
 			path = Desafio1;
 			sourceTree = "<group>";
